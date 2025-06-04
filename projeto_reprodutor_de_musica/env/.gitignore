@@ -1,17 +1,2 @@
-# Ambiente virtual
-venv/
-.env/
-.venv/
-env/
-
-# Cache do Python
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Arquivos temporários
-*.log
-*.tmp
-
-# Configurações do VSCode
-.vscode/
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
