@@ -26,6 +26,7 @@ Um reprodutor simples de músicas com uma interface básica e funcionalidade lim
 ## 📁 Estrutura do Projeto
 
 projeto/
+
 ├── componentes/ # Módulos auxiliares e objetos principais
 
 │ ├── localizador_mp3.py # Localiza arquivos MP3 no sistema
